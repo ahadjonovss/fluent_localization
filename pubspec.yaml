@@ -1,6 +1,6 @@
 name: fluent_localization
 description: "A dynamic Flutter package for seamless localization management."
-version: 0.0.2
+version: 0.0.1
 homepage:
 
 environment:
